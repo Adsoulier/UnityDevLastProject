@@ -7,7 +7,7 @@ public class UIManager : MonoBehaviour
     {
         SceneManager.LoadScene(1);
     }
-    public void LoadLevelCat()
+    public void LoadLevelFox()
     {
         SceneManager.LoadScene(2);
     }

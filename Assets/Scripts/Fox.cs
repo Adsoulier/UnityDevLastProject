@@ -1,7 +1,7 @@
 using UnityEngine;
 
 //INHERITANCE
-public class Dog : Animal
+public class Fox : Animal
 {
     
 }
