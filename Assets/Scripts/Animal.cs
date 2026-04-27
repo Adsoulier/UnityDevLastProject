@@ -5,7 +5,7 @@ public class Animal : MonoBehaviour
     
     private Rigidbody rigidBody;
 
-    private float m_JumpForce;
+    private float m_JumpForce = 300f;
 
     //ENCAPSULATE
     public float JumpForce
